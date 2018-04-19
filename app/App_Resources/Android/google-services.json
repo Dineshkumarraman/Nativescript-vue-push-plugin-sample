@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1060104002255",
+    "firebase_url": "https://androidnative-a95df.firebaseio.com",
+    "project_id": "androidnative-a95df",
+    "storage_bucket": "androidnative-a95df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060104002255:android:b263f47e302b8304",
+        "android_client_info": {
+          "package_name": "com.payoda.WeexDemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060104002255-jqo5l5982j1hfpoo94tmoj2k25c0nufo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44MrUVPnQvKupyON_-AaWwgeQzTbO3Ig"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
